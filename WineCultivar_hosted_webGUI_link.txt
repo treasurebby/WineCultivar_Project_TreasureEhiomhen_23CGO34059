@@ -2,5 +2,5 @@ Name: Ehiomhen Treasure
 Matric Number: 23CG034059
 Machine Learning Algorithm Used: Random Forest Classifier
 Model Persistence Method Used: Joblib
-Live URL: [Your deployed application URL - e.g., https://wine-cultivar-predictor.onrender.com]
+Live URL: https://winecultivar-project-treasureehiomhen.onrender.com
 GitHub Repository Link: https://github.com/treasurebby/WineCultivar_Project_TreasureEhiomhen_23CGO34059
