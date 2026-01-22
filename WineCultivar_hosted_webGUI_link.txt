@@ -1,0 +1,6 @@
+Name: [Your Full Name]
+Matric Number: [Your Matric Number]
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method Used: Joblib
+Live URL: [Your deployed application URL - e.g., https://wine-cultivar-predictor.onrender.com]
+GitHub Repository Link: [Your GitHub repository URL - e.g., https://github.com/yourusername/WineCultivar_Project]
