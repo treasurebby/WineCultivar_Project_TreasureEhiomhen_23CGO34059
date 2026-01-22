@@ -15,7 +15,7 @@ This system uses a **Random Forest Classifier** to predict wine cultivar from 6 
 ## 📁 Project Structure
 
 ```
-WineCultivar_Project_YourName_MatricNo/
+WineCultivar_Project_TreasureEhiomhen_23CGO34059/
 ├── app.py                          # Flask web application
 ├── requirements.txt                # Python dependencies
 ├── WineCultivar_hosted_webGUI_link.txt
@@ -40,8 +40,8 @@ WineCultivar_Project_YourName_MatricNo/
 
 1. Clone the repository:
 ```bash
-git clone <your-github-repo-url>
-cd WineCultivar_Project_YourName_MatricNo
+git clone [<your-github-repo-url>](https://github.com/treasurebby/WineCultivar_Project_TreasureEhiomhen_23CGO34059)
+cd WineCultivar_Project_TreasureEhiomhen_23CGO34059
 ```
 
 2. Create a virtual environment:
@@ -77,28 +77,6 @@ The Random Forest Classifier achieves:
 - **Precision (macro)**: ~97-100%
 - **Recall (macro)**: ~97-100%
 - **F1-Score (macro)**: ~97-100%
-
-## 🌐 Deployment
-
-### Deploying to Render.com
-
-1. Create a `render.yaml` file or use the Render dashboard
-2. Connect your GitHub repository
-3. Set the build command: `pip install -r requirements.txt`
-4. Set the start command: `gunicorn app:app`
-5. Deploy!
-
-### Deploying to PythonAnywhere
-
-1. Upload your files to PythonAnywhere
-2. Create a new web app
-3. Configure the WSGI file to point to your Flask app
-4. Install dependencies in a virtual environment
-5. Reload the web app
-
-### Deploying to Streamlit Cloud
-
-Note: This project uses Flask. To deploy on Streamlit Cloud, you would need to convert the app to Streamlit format.
 
 ## 🧪 Testing the Application
 
@@ -137,8 +115,8 @@ curl -X POST http://localhost:5000/api/predict \
 
 ## 👨‍💻 Author
 
-[Your Name]
-[Your Matric Number]
+Ehiomhen Treasure
+23CG034059
 
 ## 📄 License
 
